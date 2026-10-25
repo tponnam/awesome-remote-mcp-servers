@@ -702,7 +702,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Read and answer a business's WhatsApp, Telegram, Instagram and email messages from one inbox.
 - [Emitd](https://emitd.com) `https://mcp.emitd.com/mcp`
   [![Emitd MCP connector](https://glama.ai/mcp/connectors/com.emitd/emitd/badges/score.svg)](https://glama.ai/mcp/connectors/com.emitd/emitd)
-  🔑 - Transactional email, message activity, templates, contacts, automations, and inbound mail for AI agents.
+  🔓 - Transactional email, message activity, templates, contacts, automations, and inbound mail for AI agents.
 - [ErzyCall](https://app.erzycall.com/docs/mcp) `https://app.erzycall.com/api/mcp`
   [![ErzyCall MCP connector](https://glama.ai/mcp/connectors/com.erzycall.app/erzy-call/badges/score.svg)](https://glama.ai/mcp/connectors/com.erzycall.app/erzy-call)
   🔐 - Make and take real phone calls.
